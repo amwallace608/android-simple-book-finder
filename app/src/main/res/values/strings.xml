@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BookFinder</string>
+    <string name="instructions">Enter a book title, part of a book title, or some text from a book to find the book\'s full title and author.</string>
+    <string name="search_button">Search Books</string>
+    <string name="no_results">No results found.</string>
+    <string name="loading">Loading...</string>
+    <string name="no_network">Please check network connection and retry.</string>
+</resources>
